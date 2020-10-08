@@ -14,7 +14,7 @@ Answer: True
 Answer: True
 
 4. True or false: A Git repository can only contain one branch.
-Answer:
+Answer: False
 
 5. True or false: Commits are organized in chronological order.
 Answer:
